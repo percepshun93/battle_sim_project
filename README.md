@@ -1,4 +1,9 @@
-# battle_sim_project
+# Battle Simulator Project
+
+# simple_game_proj
+
+Simple Game
+
 The task is to implement a simple battle simulator that pits one army against another.
 
 At the start of the game, each commander is given a starting total of $10. Units are purchased and stored in their army. The commanders may spend as much or as little of their money as they desire. After the armies are assembled, the units are then made to fight each other in the order they were purchased in. Each unit in the standard game costs $1.
